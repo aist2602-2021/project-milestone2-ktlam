@@ -10,4 +10,5 @@
 - ## *TensorFlow 2 and Keras*
 
 # Git and GitHub usage
+- ## Actions
 - ## Markdown
